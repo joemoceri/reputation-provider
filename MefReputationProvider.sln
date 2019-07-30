@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefReputationProvider", "MefReputationProvider\MefReputationProvider.csproj", "{CC672F7D-C84A-497A-887F-BF852C19B1CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefReputationProvider.YellowPages", "MefReputationProvider.YellowPages\MefReputationProvider.YellowPages.csproj", "{927DCBCB-8061-4A85-9D7F-063FE0A415AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefReputationProvider.YahooLocal", "MefReputationProvider.YellowBook\MefReputationProvider.YahooLocal.csproj", "{5F057A58-ADC2-4BED-8254-DF642C34E388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefReputationProvider.Yelp", "MefReputationProvider.Yelp\MefReputationProvider.Yelp.csproj", "{384161B1-A266-4DF3-BBD1-8BD9FD25A815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefReputationProvider.CitySearch", "MefReputationProvider.CitySearch\MefReputationProvider.CitySearch.csproj", "{98DAB9F6-EA8F-446F-AFFF-497ACA6D24F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefReputationProvider.GooglePlaces", "MefReputationProvider.GooglePlaces\MefReputationProvider.GooglePlaces.csproj", "{366C7A77-B84E-42B6-8A73-9128CEA45484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC672F7D-C84A-497A-887F-BF852C19B1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC672F7D-C84A-497A-887F-BF852C19B1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC672F7D-C84A-497A-887F-BF852C19B1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC672F7D-C84A-497A-887F-BF852C19B1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{927DCBCB-8061-4A85-9D7F-063FE0A415AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927DCBCB-8061-4A85-9D7F-063FE0A415AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927DCBCB-8061-4A85-9D7F-063FE0A415AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927DCBCB-8061-4A85-9D7F-063FE0A415AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F057A58-ADC2-4BED-8254-DF642C34E388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F057A58-ADC2-4BED-8254-DF642C34E388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F057A58-ADC2-4BED-8254-DF642C34E388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F057A58-ADC2-4BED-8254-DF642C34E388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{384161B1-A266-4DF3-BBD1-8BD9FD25A815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384161B1-A266-4DF3-BBD1-8BD9FD25A815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384161B1-A266-4DF3-BBD1-8BD9FD25A815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384161B1-A266-4DF3-BBD1-8BD9FD25A815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98DAB9F6-EA8F-446F-AFFF-497ACA6D24F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DAB9F6-EA8F-446F-AFFF-497ACA6D24F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DAB9F6-EA8F-446F-AFFF-497ACA6D24F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DAB9F6-EA8F-446F-AFFF-497ACA6D24F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{366C7A77-B84E-42B6-8A73-9128CEA45484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{366C7A77-B84E-42B6-8A73-9128CEA45484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{366C7A77-B84E-42B6-8A73-9128CEA45484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{366C7A77-B84E-42B6-8A73-9128CEA45484}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {858B3901-3F24-414D-9AE0-2CF9F174E682}
+	EndGlobalSection
+EndGlobal
